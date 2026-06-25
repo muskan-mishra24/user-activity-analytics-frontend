@@ -4,7 +4,7 @@ A modern React-based analytics dashboard that visualizes user activity, engageme
 
 ## 🚀 Live Demo
 
-Frontend: https://user-activity-analytics-frontend.vercel.app/
+Frontend: https://user-activity-analytics-frontendmm.vercel.app/
 
 Backend API: https://user-activity-analytics-api-1.onrender.com/
 
